@@ -50,7 +50,7 @@ Run `node server.js` to start the server.
 
 Use an API development environment to hit endpoints and perform CRUD methods on the database.
 
-Walkthrough video: [E-Commerce-Back-End Walkthrough]()
+Walkthrough video: [E-Commerce-Back-End Walkthrough](https://drive.google.com/file/d/1mSBnutVO-s1jdlZvkQy7QqiW8zqSeGqW/view?usp=sharing)
 
 ## Questions
 
